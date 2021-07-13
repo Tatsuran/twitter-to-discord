@@ -130,4 +130,3 @@ dmypy.json
 
 # Sensitive data
 tokens.py
-users.py
